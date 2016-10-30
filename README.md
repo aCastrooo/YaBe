@@ -34,5 +34,7 @@ Modifying Auction Information/Bid Deletion - Anthony
 Bidding History/Auction History - Anthony
  
 ## In order to connect, you need to use a VPN and connect to the Rutgers network
+EDIT:
+Since the database and the Apache web server was maintained by the TA, the site and the database is no longer available.
 
 LINK TO THE SITE = http://classvm52.cs.rutgers.edu:8080/AuctionSite1/
